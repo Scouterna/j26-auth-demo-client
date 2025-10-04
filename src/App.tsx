@@ -169,8 +169,8 @@ function App() {
 
 				<p>
 					To better demonstrate this, the access token lifetime for this demo
-					has been lowered to 20 seconds. Usually the token would be valid for a
-					few minutes.
+					has been lowered to 20 seconds. Normally the token would be valid for
+					a few minutes.
 				</p>
 
 				<p>

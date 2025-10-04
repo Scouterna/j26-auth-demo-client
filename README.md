@@ -26,4 +26,4 @@ Run the application
 pnpm run dev
 ```
 
-Try it out on `https://localhost:3000`
+Try it out on https://localhost:3000.
